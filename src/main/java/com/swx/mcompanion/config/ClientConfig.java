@@ -20,7 +20,7 @@ public class ClientConfig {
     
     public static class ClientConfigData {
         public String apiKey = "";
-        public String serverUrl = "http://localhost:8123/api";
+        public String serverUrl = "http://8.129.225.171:32425/api";
         public String chatEndpoint = "/ai/chat/apikey";
     }
     
